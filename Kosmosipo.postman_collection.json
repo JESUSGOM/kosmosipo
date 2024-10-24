@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "fd464204-c45f-43c2-a085-821d26e5e8b6",
+		"name": "Kosmosipo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "10157039"
+	},
+	"item": [
+		{
+			"name": "generalPaginado",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "localhost:5775/api/flota/generalpaginado/1/5"
+			},
+			"response": []
+		},
+		{
+			"name": "search",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "all",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
